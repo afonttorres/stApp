@@ -12,10 +12,10 @@
         />
 
         <q-toolbar-title>
-          Quasar App
+          Quiz App
         </q-toolbar-title>
 
-        <div>Quasar v{{ $q.version }}</div>
+        <div>#belazy</div>
       </q-toolbar>
     </q-header>
 
@@ -28,7 +28,7 @@
         <q-item-label
           header
         >
-          Essential Links
+          Menu
         </q-item-label>
 
         <EssentialLink
@@ -108,7 +108,8 @@ export default defineComponent({
       essentialLinks: linksList,
       leftDrawerOpen,
       toggleLeftDrawer () {
-        leftDrawerOpen.value = !leftDrawerOpen.value
+        // leftDrawerOpen.value = !leftDrawerOpen.value
+        leftDrawerOpen.value = false;
       }
     }
   }

@@ -109,6 +109,7 @@ const getCorrectionValue = correction => correction == true ? 'Vertader' : 'Fals
   height: 70%;
   margin: auto;
   overflow-y: scroll;
+  overflow-x: hidden;
   position: relative;
 }
 

@@ -24,8 +24,8 @@
 
     <section v-if="watchAll" class="watch-all-cont">
       <q-list>
-        <q-item v-for="({ answer, correction }) of quiz" style="width:100%;">
-          <p style="width: inherit;"><strong>{{ answer }}</strong> - <span>{{ getCorrectionValue(correction) }}</span></p>
+        <q-item v-for="({ answer, correction }, i) of quiz" style="width:100%;">
+          <p style="width: inherit;"><span>#{{ i+1 }}&nbsp;</span><strong> {{ answer }}</strong> - <span>{{ getCorrectionValue(correction) }}</span></p>
         </q-item>
       </q-list>
     </section>

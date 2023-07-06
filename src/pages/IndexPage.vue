@@ -1,6 +1,9 @@
 <template>
   <div class="q-pa-md" style="height: calc(100% - 50px);position: fixed; width: 100%">
     <h1 class="text-h6 q-mb-md" style="height: 5%;">Quiz App</h1>
+    <div class="row q-ma-md" style="width: 70%; height: 10%">
+      <q-select v-model="selected" :options="['Fisio', 'Farmaco']" :label="'Escull el test'" :input-style="{width:'100%'}"/>
+    </div>
     <section v-if="quizStarted && !watchAll" class="quiz-cont col">
       <div v-if="!quizFinished" class="col" style="width: 100%; justify-content: flex-start;">
         <p class="q-mb-md" style="width: 100%;">#{{ currentQuestion.index }} <strong>{{ currentQuestion.answer }}</strong>
@@ -46,7 +49,12 @@
 
 <script setup>
 import { ref, reactive, computed, watch } from 'vue';
-import { quiz } from 'src/data/quiz'
+import { fisio } from 'src/data/fisio';
+import { farmaco } from 'src/data/farmaco';
+import { DataMapper } from 'src/data/dataMapper';
+
+const selected = ref("Fisio");
+const quiz = computed(()=> new DataMapper().mapDataToQuiz(selected.value == 'Fisio' ? fisio : farmaco));
 
 const quizStarted = ref(false);
 const quizFinished = ref(false);
@@ -69,7 +77,7 @@ const startQuiz = () => {
 }
 
 const loadQuestion = () => {
-  currentIndex.value < quiz.length ? currentQuestion = { ...quiz[currentIndex.value], index: (currentIndex.value + 1) } : quizFinished.value = true;
+  currentIndex.value < quiz.value.length ? currentQuestion = { ...quiz.value[currentIndex.value], index: (currentIndex.value + 1) } : quizFinished.value = true;
 }
 
 const back = () => {
@@ -98,7 +106,7 @@ const resetQuiz = () => {
   quizStarted.value = false;
 }
 
-const score = computed(() => quiz.length == 0 ? 0 : (correctAnswers / quiz.length) * 100);
+const score = computed(() => quiz.value.length == 0 ? 0 : (correctAnswers / quiz.value.length) * 100);
 
 const getCorrectionValue = correction => correction == true ? 'Vertader' : 'False';
 
@@ -131,7 +139,7 @@ const getCorrectionValue = correction => correction == true ? 'Vertader' : 'Fals
   bottom: 0;
   left: 0;
   gap: 5%;
-  height: 20%;
+  height: 11%;
 }
 
 .end-btn {
@@ -153,3 +161,4 @@ const getCorrectionValue = correction => correction == true ? 'Vertader' : 'Fals
 }
 </style>
 
+src/data/farmaco

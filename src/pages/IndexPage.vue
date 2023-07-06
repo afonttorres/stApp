@@ -54,7 +54,11 @@ import { farmaco } from 'src/data/farmaco';
 import { DataMapper } from 'src/data/dataMapper';
 
 const selected = ref("Fisio");
-const quiz = computed(()=> new DataMapper().mapDataToQuiz(selected.value == 'Fisio' ? fisio : farmaco));
+const quiz = computed(()=> new DataMapper().mapDataToQuiz(selected.value == 'Fisio' ? fisio : farmaco, selected.value == 'Fisio' ? 2 : 3));
+
+watch(quiz, (nv)=>{
+  startQuiz();
+})
 
 const quizStarted = ref(false);
 const quizFinished = ref(false);

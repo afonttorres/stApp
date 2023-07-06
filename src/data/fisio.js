@@ -3,7 +3,7 @@ export const fisio = [
     index: 1,
     value:
       "\\t-    Els leucòcits són els elements cel·lulars menys abundants de la sang V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 2,
@@ -21,7 +21,7 @@ export const fisio = [
     index: 4,
     value:
       "\\t-    La concentració d'hemoglobina varia segons factors d'edat i sexe V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 5,
@@ -39,19 +39,19 @@ export const fisio = [
     index: 7,
     value:
       "\\t-    L'aplasia medul·lar pot originar pancitopènia, és a dir, eritropènia, leucopènia i trombocitopènia. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 8,
     value:
       "\\t-    En una anèmia ferropènica, els eritròcits són microcìtics i hipocròmics V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 9,
     value:
       "\\t-    La glossitis, les ràgades, i la coiloníquia són manifestacions associades a l'anemia ferropènica V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 10,
@@ -63,7 +63,7 @@ export const fisio = [
     index: 11,
     value:
       "\\t-    Les leucèmies agudes es caracteritzen per l'elevada presència en sang de formes blàstiques V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 12,
@@ -75,7 +75,7 @@ export const fisio = [
     index: 13,
     value:
       "\\t-    El tromboxà A2 (TXA2) té una funció vasodilatadora i antiagregant F\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 14,
@@ -87,13 +87,13 @@ export const fisio = [
     index: 15,
     value:
       "\\t-    L'hemofília cursa amb dèficit o alternació dels factors VIII i/o IX. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 16,
     value:
       "\\t-    El fragment C5a del sistema del complement actua com a factor quimiotàctic V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 17,
@@ -105,7 +105,7 @@ export const fisio = [
     index: 18,
     value:
       "\\t-    La malaltia hemolítica del nadó es pot produir per incompatibilitat entre el sistema Rh de la mare i del fill V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 19,
@@ -117,7 +117,7 @@ export const fisio = [
     index: 20,
     value:
       "\\t-    Un adenocarcinoma és un tumor maligne d'origen epitelial V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 21,
@@ -129,25 +129,25 @@ export const fisio = [
     index: 22,
     value:
       "\\t-    Una mutació del gen supressor de tumors pot implicar la pèrdua de control de la proliferació cel·lular V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 23,
     value:
       "\\t-    L'epidermis està cosntituïda fonamentalment de queratinòcits V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 24,
     value:
       "\\t-    Tant les vesícules com les ampolles són lesions cutànies circumscrites a l'epidermis que contenen líquid en el seu interior V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 25,
     value:
       "\\t-    Els nevus es produeixen per un increment localitzat del nombre de melanòcits V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 26,
@@ -165,25 +165,25 @@ export const fisio = [
     index: 28,
     value:
       "\\t-    Un augment del líquid percardíac pot donar lloc a un embassament cardíac V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 29,
     value:
       "\\t-    La posició dels electròdes per a l'enregistrament de l'electrocardiogràma permet definir diferents derivacions V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 30,
     value:
       "\\t-    La presencia de disc intercalats entre les fibres musculars cardíaques és responsable del seu comportament com a sincici funcional V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 31,
     value:
       "\\t-    En una bradicàrdia, la distancia entre dos pics R a l'electrocardiograma és més llarga del normal V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 32,
@@ -195,13 +195,13 @@ export const fisio = [
     index: 33,
     value:
       "\\t-    en el cicle cardíac, expulsió de la sang, pressió auricular inferior a pressió ventricular V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 34,
     value:
       "\\t-    Durant la sistole ventricular isovolumetrica, valvula mitral tancada V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 35,
@@ -219,19 +219,19 @@ export const fisio = [
     index: 37,
     value:
       "\\t-    condicions normals, treball potencial que realitza el ventricle esquerre es 6 vegades superiror al dret V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 38,
     value:
       "\\t-    les catecolamines tenen efecte cronotropic i ionotropic positiu sobre el cor V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 39,
     value:
       "\\t-    la paret de les arterioles conte proporcionalment mes fibres musculars que la de les arteries grans V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 40,
@@ -249,13 +249,13 @@ export const fisio = [
     index: 42,
     value:
       "\\t-    la pressio mitjana a l’arteria aorta es superior a la pressio de pols V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 43,
     value:
       "\\t-    cicle cardiac, disminueix la pressio a l’auricula dreta s’afavoreix el retorn venos per les venes cava V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 44,
@@ -267,25 +267,25 @@ export const fisio = [
     index: 45,
     value:
       "\\t-    un augment de pressio oncotica del liquid intersticial afavoreix l’aparicio d’edema V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 46,
     value:
       "\\t-    la hiperemia reactiva es l’increment transitori del flux sanguini en un teixit despres d’un periode d’isquemia V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 47,
     value:
       "\\t-    la descarrega basal del sistema nervios simpatic sobre la paret de les arteries es responsable del to vasomotor (vascular basal) V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 48,
     value:
       "\\t-    un augment de la pressio arterial pot disminuir els baroreceptros i donar lloc a una disminucio de l’activitat centre vasomotor del bulb raquidi V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 49,
@@ -303,7 +303,7 @@ export const fisio = [
     index: 51,
     value:
       "\\t-    un increment cronic en la reabsorcio del io sodi i aigua en els tubuls renals pot originar una hipertensio essencial V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 52,
@@ -315,7 +315,7 @@ export const fisio = [
     index: 53,
     value:
       "\\t-    la fagocitosi de LDL oxidades contribueix a la formacio de plaques d’ateroma\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 54,
@@ -339,13 +339,13 @@ export const fisio = [
     index: 57,
     value:
       "\\t-    l’infart de miocardi transmural provoca elevavio del segment ST a l’ECG V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 58,
     value:
       "\\t-    una insuficiencia aortica provoca una sobrecarrega de volum al ventricle esquerre V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 59,
@@ -356,7 +356,7 @@ export const fisio = [
     index: 60,
     value:
       "\\t-    una estenosi aortica greu predisposa a patir angina de pit V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 61,
@@ -373,19 +373,19 @@ export const fisio = [
   {
     index: 63,
     value: "\\t-    un infart de miocardi pot originar un xoc cardiogenic V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 64,
     value:
       "\\t-    el poligon de willis esta format per les ramificacions de les arteries carotides internes i del tronc basilar V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 65,
     value:
       "\\t-    un tromboi cerebral a l’hemisferi qualificador pot provocar una afasia V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 66,
@@ -397,7 +397,7 @@ export const fisio = [
     index: 67,
     value:
       "\\t-    l’aparicio de dispnea, taquipnea, i dolor toracic en un pacient enllitat pot fer sospitar d’embolia pulmonar V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 68,
@@ -443,19 +443,19 @@ export const fisio = [
     index: 75,
     value:
       "\\t-    L'estómac té una capa muscular obliqua que facilita la digestió mecànica de l'aliment. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 76,
     value:
       "\\t-    A les cèl·lules parietals, les tubulovesícules presenten la bomba de protons a la seva membrana. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 77,
     value:
       "\\t-    L'increment de pH del suc gàstric estimula l'alliberament de gastrina. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 78,
@@ -478,13 +478,13 @@ export const fisio = [
   {
     index: 81,
     value: "\\t-    la vesícula biliar concentra la bilis V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 82,
     value:
       "\\t-    Les cèl·lules hepàtiques conjuguen part de la bilirubina amb l'àcid glucorònic.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 83,
@@ -496,36 +496,36 @@ export const fisio = [
     index: 84,
     value:
       "\\t-    La colecisticinina promou la secreció de gastrina per les cèl·lules G. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 85,
     value:
       "\\t-    La colecistitis aguda és una possible complicació de la litiasi biliar. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 86,
     value:
       "\\t-    Lesions focals extenses del teixit hepàtic poden produir una insuficiència hepàtica V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 87,
     value: "\\t-    Una hipoproteïnèmia pot causar ascites V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 88,
     value:
       "\\t-    Les cèl·lules ductals del pàncrees secreten bicarbonat al suc pancreàtic. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 89,
     value:
       "\\t-    Les cèl·lules caliciformes de l'intestí prim secreten moc. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 90,
@@ -549,7 +549,7 @@ export const fisio = [
     index: 93,
     value:
       "\\t-    La musculatura longitudinal de l'intesti gros forma les tenies del colon V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 94,
@@ -561,19 +561,19 @@ export const fisio = [
     index: 95,
     value:
       "\\t-    La sindrome de malabsorcio sol anar acompanyada de meteorisme o flatulencies V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 96,
     value:
       "\\t-    La malaltia celiaca pot produir una malabsorcio intestinal V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 97,
     value:
       "\\t-    L'intesti en empedrat es caracteristic de la malaltia de Crohn V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 98,
@@ -585,7 +585,7 @@ export const fisio = [
     index: 99,
     value:
       "\\t-    Una trombosi a les arteries mesenteriques pot provocar una sindrome d'abdomen agut V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 100,
@@ -597,13 +597,13 @@ export const fisio = [
     index: 101,
     value:
       "\\t-    una possible complicació de la diverticulitis és l'estenosi abdominal V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 102,
     value:
       "\\t-    La diarrea aguda greu sol anar acompanyada de manifestacions de deshidratació V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 103,
@@ -614,7 +614,7 @@ export const fisio = [
   {
     index: 104,
     value: "\\t1. La melsa és un òrgan hematopoètic durant la vida fetal V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 105,
@@ -624,7 +624,7 @@ export const fisio = [
   {
     index: 106,
     value: "\\t3. Els reticulòcits són precursors dels eritròcits V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 107,
@@ -642,13 +642,13 @@ export const fisio = [
     index: 109,
     value:
       "\\t6. El grup protoporfirina de l’hemoglobina, després de diverses transformacions, es pot convertir en estercobilina V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 110,
     value:
       "\\t7. Taquicàrdia i taquipnea són manifestacions causades per mecanismes compensatoris de l’anèmia V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 111,
@@ -660,30 +660,30 @@ export const fisio = [
     index: 112,
     value:
       "\\t9. Una aplàsia medul.lar pot comportar eritropènia, trombopènia i leucopènia V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 113,
     value:
       "\\t10. Una gastrectomia pot originar una anèmia de tipus carencial V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 114,
     value: "\\t11. Una policitèmia augmenta el risc de trombosi V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 115,
     value:
       "\\t12. L’esferocitosi dels eritròcits pot causar un augment del nombre de reticulòcits circulants V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 116,
     value:
       "\\t13. La mobilització de neutròfils del compartiment marginal pot donar lloc a neutrofília V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 117,
@@ -700,7 +700,7 @@ export const fisio = [
   {
     index: 119,
     value: "\\t16. El fibrinogen intervé en l’agregació plaquetària V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 120,
@@ -722,7 +722,7 @@ export const fisio = [
     index: 123,
     value:
       "\\t20. L’entrada de teixit cancerós a la circulació sanguínia pot provocar coagulació intravascular disseminada V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 124,
@@ -733,13 +733,13 @@ export const fisio = [
   {
     index: 125,
     value: "\\t22. El leucotriè B4 (LTB4) té activitat quimiotàctica V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 126,
     value:
       "\\t23. La rinitis i l’èczema són manifestacions que poden presentar-se a la hipersensibilitat de tipus immediata V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 127,
@@ -757,19 +757,19 @@ export const fisio = [
     index: 129,
     value:
       "\\t26. Les reaccions d’hipersensibilitat de tipus III estan mediades per la formació d’immunocomplexos V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 130,
     value:
       "\\t27. En les neoplàsies malignes, les cèl.lules tumorals estan poc diferenciades V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 131,
     value:
       "\\t28. A la fase d’iniciació d’un càncer és quan es produeix la lesió del DNA V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 132,
@@ -780,7 +780,7 @@ export const fisio = [
     index: 133,
     value:
       "\\t30. En la metàstasi d’un tumor sol produïr-se l’angiogènesi V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 134,
@@ -791,17 +791,17 @@ export const fisio = [
     index: 135,
     value:
       "\\t32. Les cèl.lules de Langerhans es localitzen en l’estrat espinós de l’epidermis V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 136,
     value: "\\t33. La formació de melanina té lloc al melanosoma V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 137,
     value: "\\t34. A la psoriasi hi ha un increment de l’estrat corni V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 138,
@@ -813,31 +813,31 @@ export const fisio = [
     index: 139,
     value:
       "\\t36. Al cor, la funció de les cordes tendinoses i dels músculs papil.lars és impedir que les vàvules auriculoventriculars s’inverteixin durant la sístole ventricular V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 140,
     value:
       "\\t37. L’endocardi és la membrana que recobreix internament la cavitat pericardíaca V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 141,
     value:
       "\\t38. El retard en la conducció de l’impuls elèctric en el node auriculoventricular assegura que la sístole ventricular s’inicii un cop s’hagi completat la sístole auricular V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 142,
     value:
       "\\t39. La presència de discos intercalats entre les fibres musculars cardíaques és responsable del seu comportament com a sincici funcional V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 143,
     value:
       "\\t40. El vector cardíac representa el conjunt de dipols generats, tant en la despolarització com en la repolarització del teixit cardíac V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 144,
@@ -849,13 +849,13 @@ export const fisio = [
     index: 145,
     value:
       "\\t42. El blocatge auriculoventricular de primer grau provoca que, a l’electrocardiograma, la distància entre l’ona p i el complex QRS sigui més gran del normal V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 146,
     value:
       "\\t43. La pressió que es genera durant la sístole ventricular isovolumètrica és responsable de l’obertura de les vàlvules semilunars o sigmoides V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 147,
@@ -873,31 +873,31 @@ export const fisio = [
     index: 149,
     value:
       "\\t46. El principal determinant de la postcàrrega és la pressió arterial V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 150,
     value:
       "\\t47. En un cicle cardíac, els ventricles dret i esquerre expulsen el mateix volum de sang cada minut V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 151,
     value:
       "\\t48. L’efecte Windkessel es basa en la capacitat de distensió i retrocés elàstic de les grans artèries V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 152,
     value:
       "\\t49. En condicions de repós, les venes i les vènules emmagatzemen la major part de la sang del sistema cardiovascular V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 153,
     value:
       "\\t50. La velocitat del flux sanguini disminueix a mesura que la sang passa des de l’artèria aorta dels capil.lars V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 154,
@@ -909,7 +909,7 @@ export const fisio = [
     index: 155,
     value:
       "\\t52. Si la pressió sistòlica és de 110 mm Hg i la diastòlica és de 80 mm Hg, la pressió mitjana és de 90 mm Hg V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 156,
@@ -920,7 +920,7 @@ export const fisio = [
     index: 157,
     value:
       "\\t54. L’exercici físic promou el retorn venós i el flux limfàtic V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 158,
@@ -932,13 +932,13 @@ export const fisio = [
     index: 159,
     value:
       "\\t56. Una davallada de la pressió oncòtica del plasma pot donar lloc a edema V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 160,
     value:
       "\\t57. El mecanisme miogènic permet mantenir el flux sanguini cerebral constant malgat hi hagi canvis considerables de la pressió arterial V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 161,
@@ -968,7 +968,7 @@ export const fisio = [
     index: 165,
     value:
       "\\t62. L’aldosterona afavoreix l’increment de la pressió arterial en augmentar la volèmia V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 166,
@@ -980,25 +980,25 @@ export const fisio = [
     index: 167,
     value:
       "\\t64. La inhibició de l’enzim convertidor d’angiotensina comportarà una reducció de la pressió arterial V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 168,
     value:
       "\\t65. Un defecte genètic que comporti una menor excreció renal de Na+ pot ser responsable de la hipertensió essencial V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 169,
     value:
       "\\t66. La hipertensió secundària produïda per aterosclerosi renal està mediada pel sistema reninaangiotensina- aldosterona V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 170,
     value:
       "\\t67. La presència de plaques d’ateroma incrementa la resistència al flux sanguini V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 171,
@@ -1010,25 +1010,25 @@ export const fisio = [
     index: 172,
     value:
       "\\t69. L’infart de miocardi provoca l’elevació de la concentració de troponines cardioespecífiques en sang V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 173,
     value:
       "\\t70. La principal causa d’infart de miocardi és la trombosi coronària associada a la placa d’anteroma V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 174,
     value:
       "\\t71. La hipertròfia concèntrica del ventricle esquerre és un mecanisme compensatori de l’estenosi aòrtica V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 175,
     value:
       "\\t72. La insuficiència mitral comporta una sobrecàrrega de volum tant a l’aurícula com al ventricle esquerres V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 176,
@@ -1046,7 +1046,7 @@ export const fisio = [
     index: 178,
     value:
       "\\t75. Taquicàrdia i hipertròfia miocardíaca ventricular són mecanismes de compensació de la insuficiència cardíaca V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 179,
@@ -1070,31 +1070,31 @@ export const fisio = [
     index: 182,
     value:
       "\\t79. Una embòlia cerebral localitzada a l’hemisferi dret pot comportar hemiparèsia esquerra V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 183,
     value:
       "\\t80. La hipertensió arterial predisposa a patir ictus hemorràgic V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 184,
     value:
       "\\t81. La claudicació intermitent sol aparèixer durant l’activitat física V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 185,
     value:
       "\\t82. L’estasi venosa conseqüent a la immobilització prolongada de les extremitats inferiors és unfactor de risc de trombosi venosa profunda V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 186,
     value:
       "\\t83. Una trombosi venosa profunda a la vena femoral esquerra pot provocar una embòlia pulmonar V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 187,
@@ -1112,13 +1112,13 @@ export const fisio = [
     index: 189,
     value:
       "\\t86. Els reflexos entèrics poden donar lloc a un augment de la secreció de les cèl.lules enteroendocrines del tub digestiu V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 190,
     value:
       "\\t87. L’acetilcolina incrementa la freqüència dels potencials d’acció de les fibres musculars llises del tub digestiu V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 191,
@@ -1136,25 +1136,25 @@ export const fisio = [
     index: 193,
     value:
       "\\t90. A l’intestí prim, les proteïnes responsables de la resistència als fàrmacs són transportadors actius que secreten els xenobiòtics ingerits V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 194,
     value:
       "\\t91. Les cèl.lules acíniques de les glàndules paròtides secreten alfa-amilasa V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 195,
     value:
       "\\t92. La regulació de la secreció salival es produeix principalment a través dels nervis cranials facial i glossofaringi V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 196,
     value:
       "\\t93. L’arrel de les peces dentàries es troba localitzada dins l’alvèol dentari V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 197,
@@ -1193,60 +1193,60 @@ export const fisio = [
     index: 203,
     value:
       "\\t100. L’administració continuada d’AINE (antiinflamatoris no esteroidals) augmenta la secreció d’àcid clorhídric a l’estòmag V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 204,
     value:
       "\\t101. A les cèl.lules parietals de l’estòmag, l’anhidrasa carbònica catalitza la formació d’àcid carbònic que s’ionitza per generar protons V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 205,
     value:
       "\\t102. L’Helicobacter pylori disminueix la capa de moc gràcies a l’activitat de la ureasa V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 206,
     value:
       "\\t103. Les cèl.lules de Kupffer es troben a la llum dels sinusoides V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 207,
     value:
       "\\t104. La concentració de bicarbonat de la bilis augmenta a mesura que avança a través de les cèl.lules ductals V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 208,
     value:
       "\\t105. La icterícia és un signe que es pot presentar a la insuficiècia hepàtica V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 209,
     value: "\\t106. L’hepatitis pot causar esteatorrea V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 210,
     value:
       "\\t107. Una de les causes d’insuficiència hepàtica és la colèstasi V 108.Una hipoproteïnèmia pot causar ascites V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 211,
     value:
       "\\t109. Una conseqüència de la cirrosi és la hipertensió portal V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 212,
     value:
       "\\t110. Al pàncrees, la secretina estimula la secreció d’enzims F 111.Les cèl.lules ductals del pàncrees secreten bicarbonat V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 213,
@@ -1263,7 +1263,7 @@ export const fisio = [
     index: 215,
     value:
       "\\t114. Les disacaridases són enzims secretats a la llum intestinal pels enteròcits V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 216,
@@ -1274,7 +1274,7 @@ export const fisio = [
   {
     index: 217,
     value: "\\t116. L’aigua s’absorbeix principalment a l’intestí prim V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 218,
@@ -1286,12 +1286,12 @@ export const fisio = [
     index: 219,
     value:
       "\\t118. Un nen que presenta absència congènita d’enterocinasa presentarà una malabsorció de proteïnes V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 220,
     value: "\\t119. La malaltia celíaca és un transtorn autoimmunitari V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 221,
@@ -1314,13 +1314,13 @@ export const fisio = [
     index: 224,
     value:
       "\\t123. La colitis ulcerosa només afecta a les capes mucosa i submucosa V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 225,
     value:
       "\\t-     Una de les funcions de la sang és la d'amortir el pH. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 226,
@@ -1337,7 +1337,7 @@ export const fisio = [
     index: 228,
     value:
       "\\t-    La vitamina B12 és un factor necessari per a la síntesi de DNA V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 229,
@@ -1360,7 +1360,7 @@ export const fisio = [
     index: 232,
     value:
       "\\t-    Una aplasia medul·lar pot comportar entropènia, trombopènia i leucopènia V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 233,
@@ -1378,7 +1378,7 @@ export const fisio = [
     index: 235,
     value:
       "\\t-    Viure en una atmòsfera pobra en oxigen pot provocar policitèmia V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 236,
@@ -1401,7 +1401,7 @@ export const fisio = [
     index: 239,
     value:
       "\\t-    L'acció de la ciclooxigenasa sobre l'acid araquidònic de les plaquetes origina tromboxà V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 240,
@@ -1418,7 +1418,7 @@ export const fisio = [
     index: 242,
     value:
       "\\t-    Una mostra de sang en un tub coagula per l'activació del factor Hageman V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 243,
@@ -1429,19 +1429,19 @@ export const fisio = [
     index: 244,
     value:
       "\\t-    La coagulacioó intravascular disseminada (CID) cursa amb un dèficit de factors de la coagulació a la sang V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 245,
     value:
       "\\t-    La vasodilatació que té lloc a la resposta inflamatòria, indueix calor i eritema en la zona afectada V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 246,
     value:
       "\\t-    Els leucòcits sanguinis poden migrar fins al focus inflamatori gràcies al quimiotactisme V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 247,
@@ -1453,19 +1453,19 @@ export const fisio = [
     index: 248,
     value:
       "\\t-    Les reaccions d'hipersensibilitat de tipus III estan mitjançades per la formació d'immunocomplexos V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 249,
     value:
       "\\t-    En la malaltia hemofílica del nadó es produeix un increment de bilirubina en sang que pot causar ictericia i lessions irreversibles del SNC V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 250,
     value:
       "\\t En una reacció d'hipersensibilitat de tipus I, la histamina alliberada pot provocar vasodilatació, contracció de múscul llis i augmenti la secrecació mucosa. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 251,
@@ -1477,43 +1477,43 @@ export const fisio = [
     index: 252,
     value:
       "\\tL'anaplàsia o abscència de diferenciació cel·lular es característica dels tumors malignes\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 253,
     value:
       "\\tEls protoancògens codifiquen per proteïnes que controlen la proliferació i diferenciació cel·lular V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 254,
     value:
       "\\t-    Durant la fase de progressió d'un càncer es produeixen noves mutacions genètiques que confereixen una major agressivitat i malignitat tumoral V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 255,
     value:
       "\\t-    Els estrats de l'epidermis són de més extern a més intern - el corni, el lùcid, el granulós, l'espinós, i el basal. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 256,
     value:
       "\\t-    A l'estrat corni de l'epidermis, hi ha queratinócits morts i endurits amb queratina V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 257,
     value:
       "\\t-    Les màcules acròmiques característiques del vitiligen són conseqüencia de la destrucció parcial o total dels melanòcits V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 258,
     value:
       "\\t-    A la psoriasi les radiacions ultraviolades del sol frenen el ritme accelerat de proliferació cel·lular de l'epidermis V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 259,
@@ -1524,25 +1524,25 @@ export const fisio = [
   {
     index: 260,
     value: "\\t-    El barb és una lesió cutània característica de l'acne V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 261,
     value:
       "\\t-    L'entrada de Ca2+ a una cèl·lula marcapassos del cor incrementa el pendent de la fase de prepotencial de la cèl·lula V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 262,
     value:
       "\\t-    La sistole auricular coincideix cronològicament amb la fase de diastole ventricular V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 263,
     value:
       "\\t-    Al miocardi es troben recptors muscarinics i recptors beta-adrenergics V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 264,
@@ -1554,13 +1554,13 @@ export const fisio = [
     index: 265,
     value:
       "\\t-    La pressió ventricular augmenta en la fase de contracció ventricular isovolumètrica del cicle cardiac. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 266,
     value:
       "\\t-    En condicions fisiològiques normals, un increment del volum diastòlic final (VDF) dona lloc a un increment del volum minut. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 267,
@@ -1590,13 +1590,13 @@ export const fisio = [
     index: 271,
     value:
       "\\t-    Quan la sang es desvia per les anastomosis asteriobenoses, el volum de sang que passa pels capil·lars es menor V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 272,
     value:
       "\\t-    Durant el cicle cardiac, la pressió auricular pot arribar a ser gairabe zero. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 273,
@@ -1620,7 +1620,7 @@ export const fisio = [
     index: 276,
     value:
       "\\t-    Un increment de la pressió hidrostàtica capil·lar afavoreix la filtració capil·lar.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 277,
@@ -1637,25 +1637,25 @@ export const fisio = [
     index: 279,
     value:
       "\\t-    L'extirpació de ganglis limfàtics en un determinat teixit pot afavorir la formació d'edema en aquest zona. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 280,
     value:
       "\\t-    Enfront d'una esquèmia, els mecanismes de regulació local respondran amb una vasodilatació de les arteriorles de la zona V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 281,
     value:
       "\\t-    L'estrès per cisallament pot afavorir la disminució de la producció d'`xid nitric (NO) endotelial V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 282,
     value:
       "\\t-    L'estimulació del SNS sobre els vasos sanguinis del muscul esqueletic produeix vasodilatació V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 283,
@@ -1673,13 +1673,13 @@ export const fisio = [
     index: 285,
     value:
       "\\t-    La ingesta de NaCl és un dels factors modificables responsables de l'etiopatogenia de la hipertensió arterial. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 286,
     value:
       "\\tUna substancia que inhibeix l'enzim convertidor d'angiotensina (ECA) produirà un descens de la pressió arterial   \\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 287,
@@ -1691,13 +1691,13 @@ export const fisio = [
     index: 288,
     value:
       "\\t-    Els mecanismes de regulació de la pressió arterial a llarg termini són més eficients (guany superior) que els de curt termini V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 289,
     value:
       "\\t-    Un tumor secretor de renina provocarà hipertensió arterial V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 290,
@@ -1721,18 +1721,18 @@ export const fisio = [
     index: 293,
     value:
       "\\t-    En persones hipertenses , l'augment de la reactivitat vascular provoca més - hipertensió V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 294,
     value: "\\t-    L'aterosclerosi és un tipus d'ateriosclerosi V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 295,
     value:
       "\\t-    Les cèl·lules escumoses implicades en la formació de la placa d'ateroma contenen gran quantitat de lipids V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 296,
@@ -1744,7 +1744,7 @@ export const fisio = [
     index: 297,
     value:
       "\\t-    El principal mecanisme regulador del flux sanguini coronari és l'autoregulació V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 298,
@@ -1756,7 +1756,7 @@ export const fisio = [
     index: 299,
     value:
       "\\t-    Infart cerebarl i infart miocardi poden ser el resultat d'una embòlia V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 300,
@@ -1773,7 +1773,7 @@ export const fisio = [
   {
     index: 302,
     value: "\\t-    La congestió pulmonar sol provocar edema pulmonar V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 303,
@@ -1791,7 +1791,7 @@ export const fisio = [
     index: 305,
     value:
       "\\t-    Un infart de miocardi extens pot causar un xoc cardiogènic V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 306,
@@ -1803,7 +1803,7 @@ export const fisio = [
     index: 307,
     value:
       "\\t-    Les asrtèries vertebrals donen lloc a l'artèria o tronc basilar V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 308,
@@ -1820,7 +1820,7 @@ export const fisio = [
     index: 310,
     value:
       "\\t-    El sistema nerviós entèric està format pels plexes mientéric i submucós V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 311,
@@ -1837,19 +1837,19 @@ export const fisio = [
     index: 313,
     value:
       "\\t-    L'acetilcolina dóna lloc a potencials d'acció que provoquen la contracció de la musculatura intestinal V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 314,
     value:
       "\\t-    La reducció de la motilitat intestinal pot provocar restrenyiment V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 315,
     value:
       "\\t-    La boca està recoberta per un epiteli escamós estratificat V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 316,
@@ -1860,19 +1860,19 @@ export const fisio = [
     index: 317,
     value:
       "\\t-    La tosca es produeix per la minerització de la placa dental V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 318,
     value:
       "\\t-    En la deglució, l'epiglotis es tanca durant la fase faríngia. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 319,
     value:
       "\\t-    En l'hèrnia hiatal, l'esfinter esofàgic inferior es desplaça a la cavitat toràcica.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 320,
@@ -1883,19 +1883,19 @@ export const fisio = [
     index: 321,
     value:
       "\\t-    La zona proximal de l'estomac realitza una relaxió receptiva V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 322,
     value:
       "\\t-    La presencia d'aminoàcids a la llum gàstrica estimula la secreció de gastrina V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 323,
     value:
       "\\t-    La distenció excesiva de la paret gàstrica inicia el reflex del vòmit V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 324,
@@ -1906,7 +1906,7 @@ export const fisio = [
   {
     index: 325,
     value: "\\t-    L'estenosi pilòrica pot provocar vòmits intensos V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 326,
@@ -1918,19 +1918,19 @@ export const fisio = [
     index: 327,
     value:
       "\\t-    Els fosfolipids participen en la formació de micel·les a l'intestí prim. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 328,
     value:
       "\\t-    La bilirubina conjugada és secretada de forma activa cap a la llum del canalicle biliar. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 329,
     value:
       "\\t-    La microbiota intestinal forma els àcids biliars secundaris. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 330,
@@ -1942,18 +1942,18 @@ export const fisio = [
     index: 331,
     value:
       "\\t-    L'eritema palmar és una manifestació cutània de la insuficiència hepática. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 332,
     value: "\\t-    La hipertensió portal pot causar varices esofàgiques. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 333,
     value:
       "\\t-    La cirrosi hepàtica provoca una destrucció de la irrigació del fetge. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 334,
@@ -1971,7 +1971,7 @@ export const fisio = [
     index: 336,
     value:
       "\\t-    La colecistocinina (CCC) és secretada per les cèl·lules I del duodè. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 337,
@@ -1989,13 +1989,13 @@ export const fisio = [
     index: 339,
     value:
       "\\t-    Les proteases pancreàtiques digereixen la major part de proteïnes. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 340,
     value:
       "\\t-    Els àcids biliars no conjugatsentren a l'enteròcit per difusió simple. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 341,
@@ -2007,7 +2007,7 @@ export const fisio = [
     index: 342,
     value:
       "\\t-    Les cèl·lules M intestinals faciliten l'entrada d'antígens. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 343,
@@ -2019,19 +2019,19 @@ export const fisio = [
     index: 344,
     value:
       "\\t-    En el còlon desdendent es produeixen moviments en masa. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 345,
     value:
       "\\t-     La diarrea secretora està dirigida per la sortida apical d'ions Cl-. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 346,
     value:
       "\\t-    Els diverticles del còlon es produeixen per una hèrnia de la capa muscular. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 347,
@@ -2047,7 +2047,7 @@ export const fisio = [
     index: 349,
     value:
       "\\t-    Les cèl·lules dels pòlips adenomatosos del còlon presenten resistència a l'apoptosi. V\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 350,
@@ -2077,7 +2077,7 @@ export const fisio = [
     index: 354,
     value:
       "\\t5.         La policitèmia vera és un tipus de policitèmia absoluta.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 355,
@@ -2095,31 +2095,31 @@ export const fisio = [
     index: 357,
     value:
       "\\t8.         L’eosinòfilia pot ser indicativa d’infecció parasitària.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 358,
     value:
       "\\t9.         Un limfoma es caracteritza per la proliferació descontrolada de limfòcits en estructures limfoides perifèriques com els ganglis limfàtics.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 359,
     value:
       "\\t10.       La trisomia del cromosoma 21 és un factor de risc de desenvolupament de leucèmia.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 360,
     value:
       "\\t11.       El factor de von Willebrand és essencial ala fase d’adhesió plaquetària.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 361,
     value:
       "\\t12.       L’objectiu de l’agregació plaquetària és la formació d’un tap plaquetari.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 362,
@@ -2143,7 +2143,7 @@ export const fisio = [
     index: 365,
     value:
       "\\t16.       L’activació del sistema de complement és un mecanisme patogènic de les reaccions d’hipersensibilitat de tipus II.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 366,
@@ -2155,13 +2155,13 @@ export const fisio = [
     index: 367,
     value:
       "\\t18.       Els enzims lisosomals són mediadors de la inflamació secretats per fagòcits.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 368,
     value:
       "\\t19.       Una possible complicació d’un procés inflamatori és la formació d’abscessos.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 369,
@@ -2185,7 +2185,7 @@ export const fisio = [
     index: 372,
     value:
       "\\t23.       Els carcinògens són responsables de la mutació genètica implicada en la gènesi d’un càncer.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 373,
@@ -2202,13 +2202,13 @@ export const fisio = [
   {
     index: 375,
     value: "\\t26.       Les lesions cutànies de la psoriasi són plaques.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 376,
     value:
       "\\t27.       El vitiligen es produeix per destrucció parcial o total de melanòcits.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 377,
@@ -2244,13 +2244,13 @@ export const fisio = [
     index: 382,
     value:
       "\\t33.       El blocatge auriculoventricular de primer grau provoca que, a l’ECG, la distància entre l’ona P i el complex QRS sigui més gran del normal.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 383,
     value:
       "\\t34.       L’obertura de la vàlvula mitral té lloc quan la pressió a l’aurícula esquerre supera la pressió al ventricle esquerre.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 384,
@@ -2262,19 +2262,19 @@ export const fisio = [
     index: 385,
     value:
       "\\t36.       El treball cardíac depèn fonamentalment del volum sistòlic, i de la pressió arterial.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 386,
     value:
       "\\t37.       El principal determinant de la postcàrrega és la pressió arterial.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 387,
     value:
       "\\t38.       L’estimulació vagal provoca una disminució de la freqüència cardíaca.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 388,
@@ -2292,7 +2292,7 @@ export const fisio = [
     index: 390,
     value:
       "\\t41.       La policitèmia augmenta la resistència al flux sanguini.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 391,
@@ -2303,7 +2303,7 @@ export const fisio = [
   {
     index: 392,
     value: "\\t43.       La contracció muscular afavoreix el retorn venós.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 393,
@@ -2333,7 +2333,7 @@ export const fisio = [
     index: 397,
     value:
       "\\t48.       El centre cardioinhibidor del bulb raquidi augmenta l’activitat del sistema nerviós parasimpàtic.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 398,
@@ -2357,7 +2357,7 @@ export const fisio = [
     index: 401,
     value:
       "\\t52.       La cardiopatia isquèmica i la retinopatia hipertensiva són possibles complicacions de la hipertensió arterial.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 402,
@@ -2381,7 +2381,7 @@ export const fisio = [
     index: 405,
     value:
       "\\t56.       L’angina de pit estable és considera una síndrome coronària crònica.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 406,
@@ -2399,43 +2399,43 @@ export const fisio = [
     index: 408,
     value:
       "\\t59.       La hipertròfia concèntrica del ventricle esquerre permet compensar un cert grau d’estenosi aòrtica.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 409,
     value:
       "\\t60.       Una estenosi aòrtica greu predisposa a patir una angina de pit.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 410,
     value:
       "\\t61.       Ingurgitació jugular, hepatomegàlia iesplenomegàlia sónsignessuggestius d’insuficiència cardíaca dreta.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 411,
     value:
       "\\t62.       L’ortopnea i la dispnea paroxismal nocturna són manifestacions associades a congestió i edema pulmonars.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 412,
     value:
       "\\tUna insuficiència cardíaca esquerra de llarga evolució pot conduir a una insuficiència cardíaca global.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 413,
     value:
       "\\t64.       L’embòlia cerebral pot ser secundària a una fibril·lació auricular.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 414,
     value:
       "\\t65.       La presència d’aneurismes cerebrals predisposa a patir un ictus hemorràgic.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 415,
@@ -2477,13 +2477,13 @@ export const fisio = [
     index: 421,
     value:
       "\\t72.       Les cèl·lules acinars de les glàndules paroxides secreten amilasa salival.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 422,
     value:
       "\\t73.       Les glicoproteïnes d’origen salival participen en la formació de la placa dental.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 423,
@@ -2495,7 +2495,7 @@ export const fisio = [
     index: 424,
     value:
       "\\t75.       La fase oral de la deglució és un procés voluntari mentre que les fases faríngia i esofàgica són involuntàries.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 425,
@@ -2525,31 +2525,31 @@ export const fisio = [
     index: 429,
     value:
       "\\t80.       La gastritis és una inflamació que afecta exclusivament a la capa mucosa de l’estómac.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 430,
     value:
       "\\t81.       El dolor epigàstric que apareix en l’úlcera pèptica s’atenua o desapareix amb la ingesta d’aliments.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 431,
     value:
       "\\t82.       La formació d’ureasa per L’Helicobacter pytori afavoreix la inflamació de la mucosa gàstrica.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 432,
     value:
       "\\t83.       El colèdoc i el conducte pancreàtic vessen les seves secrecions a l’ampul·la de Vater.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 433,
     value:
       "\\t84.       Els sinusoides hepàtics condueixen la sang procedent de la vena porta hepàtica i de l’artèria hepàtica cap a la vena central del lòbul hepàtic.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 434,
@@ -2561,7 +2561,7 @@ export const fisio = [
     index: 435,
     value:
       "\\t86.       La colecistocinina i la gastrina estimulen la contracció de la vesícula biliar.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 436,
@@ -2579,13 +2579,13 @@ export const fisio = [
     index: 438,
     value:
       "\\t89.       Leshormonessecretinaicolecistocinina actuenincrementantlasecreciópancreàtica.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 439,
     value:
       "\\t90.       Litiasi biliar i alcoholisme sónpossiblescauses depancreatitis tant aguda com crònica.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 440,
@@ -2609,13 +2609,13 @@ export const fisio = [
     index: 443,
     value:
       "\\t94.       La vitamina B12 ha d’unir-se al factor intrínsec per poder-se absorbir a l’ili.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 444,
     value:
       "\\t95.       Les ¿tènies? del còlon es refereixen a la disposició que adopta la musculatura longitudinal de l’intestí gros.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 445,
@@ -2626,13 +2626,13 @@ export const fisio = [
   {
     index: 446,
     value: "\\t97.       El dèficit de lactasa causa diarrea osmòtica.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 447,
     value:
       "\\t98.       La malaltia celíaca està causada per una intolerància a les prolamines contingudes en determinats cereals.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 448,
@@ -2650,7 +2650,7 @@ export const fisio = [
     index: 450,
     value:
       "\\t101.     Una obstrucció per fecàlits a l’apèndix vermiforme pot ser l’etiologia d’una apendicitis.\\t",
-    correction: false,
+    correction: true,
   },
   {
     index: 451,

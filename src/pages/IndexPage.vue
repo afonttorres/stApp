@@ -1,8 +1,8 @@
 <template>
   <div class="q-pa-md" style="height: calc(100% - 50px);position: fixed; width: 100%">
     <h1 class="text-h6 q-mb-md" style="height: 5%;">Quiz App</h1>
-    <div class="row q-ma-md" style="width: 70%; height: 10%">
-      <q-select v-model="selected" :options="['Fisio', 'Farmaco']" :label="'Escull el test'" :input-style="{width:'100%'}"/>
+    <div class="row q-ma-md select-cont" style="width: 70%; height: 10%">
+      <q-select v-model="selected" :options="['Fisio', 'Farmaco']" :label="'Escull el test'"/>
     </div>
     <section v-if="quizStarted && !watchAll" class="quiz-cont col">
       <div v-if="!quizFinished" class="col" style="width: 100%; justify-content: flex-start;">
@@ -159,6 +159,8 @@ const getCorrectionValue = correction => correction == true ? 'Vertader' : 'Fals
   bottom: 15%;
   font-size: 1.5rem;
 }
-</style>
 
-src/data/farmaco
+.select-cont > *{
+  width: 100% !important;
+}
+</style>
